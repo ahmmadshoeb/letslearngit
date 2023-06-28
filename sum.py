@@ -1,6 +1,6 @@
-a=int(input("enter the 1 number:"))
-b=int(input("enter the 1 number:"))
-c=int(input("enter the 1 number:"))
+a=5
+b=6
+c=8
 
 print("sum=",a+b+c)
 
